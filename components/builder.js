@@ -4,7 +4,7 @@ import {Paper} from '@material-ui/core'
 const Builder = ({children, classes}) => {
     return (<Paper>
         {children}
-    </Paper>)    
+    </Paper>)
 }
 
 export default Builder
